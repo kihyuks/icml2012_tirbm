@@ -1,6 +1,6 @@
-#Learning Invariant Representations with Local Transformations<br />
-######Kihyuk Sohn and Honglak Lee, ICML 2012<br />
-######for any question, please leave a message: kihyuk.sohn@gmail.com 
+# Learning Invariant Representations with Local Transformations
+###### Kihyuk Sohn and Honglak Lee, ICML 2012
+###### for any question, please leave a message: kihyuk.sohn@gmail.com 
 
 ##CIFAR-10 database
 
