@@ -2,7 +2,7 @@
 ###### Kihyuk Sohn and Honglak Lee, ICML 2012
 ###### for any question, please leave a message: kihyuk.sohn@gmail.com 
 
-##CIFAR-10 database
+## CIFAR-10 database
 
 1. get minFunc for learning classifier
 
